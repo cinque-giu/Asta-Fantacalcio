@@ -88,7 +88,7 @@ class FantasyAuction {
                 }
             ],
             players_by_role: {
-                "Portieri": [
+                               "Portieri": [
                     {nome: "Meret", squadra: "Napoli", priorita: "1", preferito: false, venduto: false, prezzo: 0, squadra_acquirente: ""},
                     {nome: "Milinkovic-Savic V.", squadra: "Napoli", priorita: "1", preferito: false, venduto: false, prezzo: 0, squadra_acquirente: ""},
                     {nome: "Contini", squadra: "Napoli", priorita: "1", preferito: false, venduto: false, prezzo: 0, squadra_acquirente: ""},
